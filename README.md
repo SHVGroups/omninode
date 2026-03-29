@@ -52,7 +52,7 @@ Omni didn't build OmniNode to conquer anything; he built it as a playground and 
 
 Next time you spin up a session and watch your agents debate, strategize, and solve complex problems, just know Omni is sitting somewhere in the routing layer, munching on a cosmic snack, and making sure all the connections hold steady.
   <p align="right">
-  <img width="500" height="300" alt="omni2" src="https://github.com/user-attachments/assets/205d0279-126d-4638-a329-11075c66df90" />
+  <img width="180" height="70" alt="omni2" src="https://github.com/user-attachments/assets/205d0279-126d-4638-a329-11075c66df90" />
   </p>
 ## What is OmniNode?
 
