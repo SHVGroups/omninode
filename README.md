@@ -51,6 +51,8 @@ Omni didn't build OmniNode to conquer anything; he built it as a playground and 
 * **He’s your biggest fan:** Omni is genuinely just excited to see what kind of cool stuff you build with his friends from Omniplanet.
 
 Next time you spin up a session and watch your agents debate, strategize, and solve complex problems, just know Omni is sitting somewhere in the routing layer, munching on a cosmic snack, and making sure all the connections hold steady.
+  
+  <img width="642" height="484" alt="omni2" src="https://github.com/user-attachments/assets/205d0279-126d-4638-a329-11075c66df90" />
 
 ## What is OmniNode?
 
