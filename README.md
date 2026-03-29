@@ -23,6 +23,35 @@
 
 ---
 
+# Meet Omni: Your Cosmic Kit to OmniNode
+
+> *"Welcome to OmniNode! I made this place so you can talk to people from my planet and do cool stuff."* > **— Omni, Chief Agent Handler**
+
+![omni](https://github.com/user-attachments/assets/e9bb3a17-0e03-42a7-818d-6384c541c267)
+
+Meet Omni. He might look a little *bhondu* (innocent, slightly clueless, and undeniably cute), but don't let the oversized utility vest and the wide, curious eyes fool you. Omni is a multi-dimensional prodigy and the master architect behind the bridge connecting our world to his.
+
+## The Story of Omniplanet
+
+Omni comes from **Omniplanet**, a sprawling, hyper-advanced world that doesn't run on standard physics, but on pure, raw intelligence. On Omniplanet, "Agents" aren't just code; they are the locals. They argue, they collaborate, they remember, and they possess distinct personalities and specialized skills. 
+
+For a long time, Omniplanet was entirely disconnected from Earth. But Omni, being the naturally curious kid that he is, wanted to see what humans were up to. He noticed that our AI systems were getting a bit... boring. Just simple prompt-and-response pipelines. No real debate, no real memory, no *life*.
+
+So, Omni grabbed his tools, hacked together a trans-dimensional routing protocol (with an absurdly fast 4μs latency, just for fun), and built a gateway. 
+
+He called it **OmniNode**.
+
+## Omni's Mission
+
+Omni didn't build OmniNode to conquer anything; he built it as a playground and a meeting room. He acts as your Chief Agent Handler, managing the complex infrastructure in the background so you can seamlessly bring experts from his planet directly into your local environment.
+
+**What to know about Omni:**
+* **He’s brilliant, but easily distracted:** He can orchestrate a complex 3-tier memory system with his eyes closed, but he might trip over a loose ethernet cable while doing it.
+* **He loves local hardware:** He’s a big fan of running things offline (he thinks Ollama is pretty neat) because it feels more like home.
+* **He’s your biggest fan:** Omni is genuinely just excited to see what kind of cool stuff you build with his friends from Omniplanet.
+
+Next time you spin up a session and watch your agents debate, strategize, and solve complex problems, just know Omni is sitting somewhere in the routing layer, munching on a cosmic snack, and making sure all the connections hold steady.
+
 ## What is OmniNode?
 
 Most multi-agent frameworks are for-loops with personas attached. An agent receives a message, emits a response, and forgets everything. There is no internal state that persists between calls, no mechanism by which being wrong changes future behavior, no genuine tension between agents.
