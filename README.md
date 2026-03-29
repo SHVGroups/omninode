@@ -52,8 +52,9 @@ Omni didn't build OmniNode to conquer anything; he built it as a playground and 
 
 Next time you spin up a session and watch your agents debate, strategize, and solve complex problems, just know Omni is sitting somewhere in the routing layer, munching on a cosmic snack, and making sure all the connections hold steady.
   <p align="right">
-  <img width="180" height="70" alt="omni2" src="https://github.com/user-attachments/assets/205d0279-126d-4638-a329-11075c66df90" />
+  <img width="180" height="100" alt="omni2" src="https://github.com/user-attachments/assets/205d0279-126d-4638-a329-11075c66df90" />
   </p>
+  
 ## What is OmniNode?
 
 Most multi-agent frameworks are for-loops with personas attached. An agent receives a message, emits a response, and forgets everything. There is no internal state that persists between calls, no mechanism by which being wrong changes future behavior, no genuine tension between agents.
